@@ -8,7 +8,7 @@ Es necesario tener instalado Python y las siguientes librerías:
 - numpy
 - pandas
 - matplotlib
-
+- counter
 
 3. INSTRUCCIONES DE EJECUCIÓN
 Para ejecutar la práctica entera y ver los resultados de los algoritmos:
