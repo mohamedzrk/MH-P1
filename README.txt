@@ -16,5 +16,5 @@ Para ejecutar la práctica entera y ver los resultados de los algoritmos:
 2. Ejecutar el comando:
    python practica1.py
 
-Esto mostrará por pantalla el coste inicial, el coste de cada algoritmo, las evaluaciones hechas y los segundos que ha tardado para la Instancia Pequeña, Mediana y Grande. 
+Esto mostrará por pantalla el coste de la solucion aleatoria inicial, el coste de la solucion propuesta por cada algoritmo, las evaluaciones hechas y los segundos que ha tardado para la Instancia Pequeña, Mediana y Grande. 
 
